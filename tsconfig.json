@@ -1,0 +1,3 @@
+{
+  "extends": "@ogea12/tsconfig/tsconfig.package"
+}
