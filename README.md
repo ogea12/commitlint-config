@@ -1,4 +1,6 @@
-# @ogea12/commitlint-config
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/910492a3-9657-42e5-8978-ea0537a12a87" />
+</div>
 
 <div align="center">
 
