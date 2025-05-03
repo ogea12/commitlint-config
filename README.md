@@ -33,7 +33,7 @@ Une fois l'installation terminée, vous pouvez ajouter le fichier `commitlint.co
 // commitlint.config.js
 
 export default {
-  extends: ['@ogea12'], // @ogea12/commitlint-config
+  extends: ['@ogea12'],
 }
 ```
 
@@ -52,7 +52,7 @@ npm install -D husky
 Après l'installation, initialisez Husky dans votre projet. Cette commande ajoutera automatiquement le script `prepare` dans votre fichier `package.json`. Ce script s'exécutera après chaque installation des dépendances.
 
 ```shell
-npx husky init
+npx husky
 ```
 
 ### Utilisation
