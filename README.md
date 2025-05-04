@@ -52,7 +52,7 @@ npm install -D husky
 Après l'installation, initialisez Husky dans votre projet. Cette commande ajoutera automatiquement le script `prepare` dans votre fichier `package.json`. Ce script s'exécutera après chaque installation des dépendances.
 
 ```shell
-npx husky
+npx husky init
 ```
 
 ### Utilisation
