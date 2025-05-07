@@ -18,7 +18,7 @@
 
 Pour utiliser le package, vous devez d'abord l'intégrer dans votre projet.
 
-```shell
+```bash
 npm install -D @ogea12/commitlint-config
 
 # Assurez-vous également d'installer le package suivant
@@ -45,13 +45,13 @@ export default {
 
 Pour utiliser Husky, vous devez d'abord l'intégrer dans votre projet.
 
-```shell
+```bash
 npm install -D husky
 ```
 
 Après l'installation, initialisez Husky dans votre projet. Cette commande ajoutera automatiquement le script `prepare` dans votre fichier `package.json`. Ce script s'exécutera après chaque installation des dépendances.
 
-```shell
+```bash
 npx husky init
 ```
 
@@ -59,7 +59,7 @@ npx husky init
 
 Pour configurer Husky afin qu'il vérifie vos messages de commit, vous devez créer un hook `commit-msg`. Ce hook s'exécutera chaque fois que vous créez un commit et vérifiera que votre message respecte les règles définies.
 
-```shell
+```bash
 # .husky/commit-msg
 
 npx --no -- commitlint --edit $1
