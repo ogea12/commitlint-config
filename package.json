@@ -34,24 +34,24 @@
     "url": "git+https://github.com/ogea12/commitlint-config.git"
   },
   "devDependencies": {
-    "@ogea12/eslint-config": "^2.0.2",
-    "@ogea12/prettier-config": "^1.0.4",
-    "@ogea12/tsconfig": "^1.0.4",
-    "@types/node": "^22.15.3",
+    "@ogea12/eslint-config": "^2.0.4",
+    "@ogea12/prettier-config": "^1.0.6",
+    "@ogea12/tsconfig": "^1.0.7",
+    "@types/node": "^22.15.16",
     "del-cli": "^6.0.0",
-    "eslint": "^9.25.1",
+    "eslint": "^9.26.0",
     "prettier": "^3.5.3",
-    "release-it": "^19.0.1",
+    "release-it": "^19.0.2",
     "taze": "^19.1.0",
     "tsup": "^8.4.0",
     "typescript": "^5.8.3"
   },
   "dependencies": {
-    "@commitlint/config-conventional": "^19.8.0",
-    "@commitlint/types": "^19.8.0"
+    "@commitlint/config-conventional": "^19.8.1",
+    "@commitlint/types": "^19.8.1"
   },
   "peerDependencies": {
-    "@commitlint/cli": "^19.8.0"
+    "@commitlint/cli": "^19.8.1"
   },
   "author": "OGEA 12",
   "license": "MIT",
