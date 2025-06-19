@@ -35,17 +35,17 @@
     "url": "git+https://github.com/ogea12/commitlint-config.git"
   },
   "devDependencies": {
-    "@ogea12/eslint-config": "^2.0.4",
-    "@ogea12/prettier-config": "^1.0.6",
-    "@ogea12/tsconfig": "^1.0.7",
-    "@types/node": "^22.15.16",
+    "@ogea12/eslint-config": "^2.0.5",
+    "@ogea12/prettier-config": "^1.0.7",
+    "@ogea12/tsconfig": "^1.0.8",
+    "@types/node": "^22.15.32",
     "del-cli": "^6.0.0",
-    "eslint": "^9.26.0",
+    "eslint": "^9.29.0",
     "husky": "^9.1.7",
     "prettier": "^3.5.3",
-    "release-it": "^19.0.2",
+    "release-it": "^19.0.3",
     "taze": "^19.1.0",
-    "tsup": "^8.4.0",
+    "tsup": "^8.5.0",
     "typescript": "^5.8.3"
   },
   "dependencies": {
