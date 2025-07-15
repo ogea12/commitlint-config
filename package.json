@@ -1,7 +1,7 @@
 {
   "name": "@ogea12/commitlint-config",
   "description": "Config' CommitLint appliquée dans les projets de l'OGEA 12",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "engines": {
     "node": ">=20.17.0"
   },
