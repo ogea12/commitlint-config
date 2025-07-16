@@ -26,8 +26,8 @@
     "build": "tsup",
     "postbuild": "del-cli build/**/*.d.cts",
     "prepublishOnly": "npm run build",
-    "release": "npx release-it",
-    "taze": "npx taze"
+    "release": "release-it",
+    "taze": "taze"
   },
   "homepage": "https://github.com/ogea12/commitlint-config#readme",
   "repository": {
