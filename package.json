@@ -3,7 +3,7 @@
   "description": "Config' CommitLint appliquée dans les projets de l'OGEA 12",
   "version": "1.0.6",
   "engines": {
-    "node": ">=20.17.0"
+    "node": ">=24.14.0"
   },
   "type": "module",
   "files": [
